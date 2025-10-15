@@ -1,0 +1,12 @@
+opencv-python
+ipykernel
+matplotlib
+pillow
+imagezmq
+pyscreenshot
+yt-dlp
+pafy
+
+# only for arabic or persian 
+python-bidi
+arabic-reshaper
